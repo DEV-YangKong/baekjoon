@@ -4,25 +4,25 @@
 
 ## 사용 언어
 
-- Python
+- Python , Javascript
 
 ## 문제 풀이
 
-### 엘리스 코딩 테스트 스터디
+### 코딩 테스트
 
-__baekjoon_table__
+**baekjoon_table**
 
 ---
 
 ### [릿코드](https://leetcode.com/)
 
-__leetcode_table__
+**leetcode_table**
 
 ---
 
 ### [프로그래머스](https://programmers.co.kr/)
 
-__programmers_table__
+**programmers_table**
 
 ---
 
