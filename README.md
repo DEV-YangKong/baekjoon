@@ -10,16 +10,6 @@
 
 ### 코딩 테스트
 
----
-
-### [프로그래머스](https://programmers.co.kr/)
-
-**programmers_table**
-
----
-
-### [백준](https://www.acmicpc.net/)
-
 **baekjoon_table**
 
 ---
@@ -27,6 +17,12 @@
 ### [릿코드](https://leetcode.com/)
 
 **leetcode_table**
+
+---
+
+### [프로그래머스](https://programmers.co.kr/)
+
+**programmers_table**
 
 ---
 
