@@ -1,13 +1,35 @@
-# 알고리즘 문제풀이
+# 코딩 테스트로 실력 쌓기!
 
-## 풀이 목록
+일주일에 세문제만 풀자
 
-| col1  | col2  | ...   | ... |
-| ----- | ----- | ----- | --- |
-| value | value | value | ... |
-| value | value | value | ... |
-| value | value | value | ... |
-| value | value | value | ... |
+## 사용 언어
 
-...
-...
+- Python , Javascript
+
+## 문제 풀이
+
+### 코딩 테스트
+
+---
+
+### [프로그래머스](https://programmers.co.kr/)
+
+**programmers_table**
+
+---
+
+### [백준](https://www.acmicpc.net/)
+
+**baekjoon_table**
+
+---
+
+### [릿코드](https://leetcode.com/)
+
+**leetcode_table**
+
+---
+
+## 참조할만한 곳
+
+- [코드없는 프로그래밍](https://www.youtube.com/channel/UCHcG02L6TSS-StkSbqVy6Fg)
