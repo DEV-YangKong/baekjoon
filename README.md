@@ -2,6 +2,13 @@
 
 Welcome to the repository for building coding skills through coding tests! This repository is dedicated to showcasing my solutions to coding problems from various platforms. By regularly practicing coding tests, I aim to improve my problem-solving skills and algorithmic thinking.
 
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEV-Yangkong&repo=AlgoSolution_Hub&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+
 ## 사용 언어 (Programming Languages)
 
 - Python
