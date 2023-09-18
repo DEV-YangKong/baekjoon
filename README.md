@@ -11,8 +11,7 @@ Welcome to the repository for building coding skills through coding tests! This 
 
 ## 사용 언어 (Programming Languages)
 
-- Python
-- JavaScript (occasionally)
+- Swift
 
 ## 문제 풀이 (Problem Solving)
 
